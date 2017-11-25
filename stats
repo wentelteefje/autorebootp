@@ -1,0 +1,91 @@
+defunct:                                  0
+off:                                      0
+allowed:                                  1
+overheat:                                 0
+pool_info:                                stratumproxy enabled
+                                          proxywallet 0xa8242F64c365495871F9dc4Fc3d3B3736a716FD8
+                                          proxypool1 eth-eu1.nanopool.org:9999
+                                          proxypool2 eth-eu2.nanopool.org:9999
+pool:                                     eth-eu1.nanopool.org:9999
+miner_version:                            v9.8
+rx_kbps:                                  0.08
+tx_kbps:                                  0.10
+kernel:                                   4.8.17-ethos49
+boot_mode:                                uefi
+uptime:                                   42327
+mac:                                      7085c24be422
+hostname:                                 4be422
+rack_loc:                                 
+ip:                                       192.168.111.146
+manu:                                     ASRock
+mobo:                                     H110 Pro BTC+
+lan_chip:                                 Intel Corporation Ethernet Connection (2) I219-V (rev 31)
+load:                                     0.45
+ram:                                      4
+cpu_temp:                                 35
+cpu_name:                                 Intel(R) Pentium(R) CPU G4400 @ 3.30GHz
+                                          Intel(R) Pentium(R) CPU G4400 @ 3.30GHz
+rofs:                                     280
+drive_name:                               SP032GISSD301SV0 17013368070143
+freespace:                                11.2
+temp:                                     62.00 57.00 63.00 62.00 51.00 49.00 45.00 54.00 59.00 64.00 61.00 54.00 56.00
+version:                                  1.2.5
+miner_secs:                               42235
+adl_error:                                
+proxy_problem:                            working
+updating:                                 0
+connected_displays:                       
+resolution:                               
+gethelp:                                  
+config_status:                            
+send_remote:                              http://hbloh.de/remote.conf.4
+autorebooted:                             0
+status:                                   137.5 hash: miner active
+driver:                                   amdgpu
+selected_gpus:                            
+gpus:                                     13
+fanrpm:                                   3988 3988 3988 3988 3988 3988 3988 3988 3988 3988 3988 3988 3988
+fanpercent:                               89 89 89 89 89 89 89 89 89 89 89 89 89
+hash:                                     137.51
+miner:                                    claymore
+miner_hashes:                             11.00 00.44 11.52 11.43 11.51 11.31 00.00 00.42 11.43 11.41 11.00 00.00 11.51
+dualminer_status:                         
+dualminer_coin:                           
+dualminer_hashes:                         0 0 0 0 0 0 0 0 0 0 0 0 0
+models:                                   01 Baffin RX 560 1002-67ffrcf
+                                          02 Baffin RX 560 1002-67ffrcf
+                                          03 Baffin RX 560 1002-67ffrcf
+                                          04 Baffin RX 560 1002-67ffrcf
+                                          05 Baffin RX 560 1002-67ffrcf
+                                          06 Baffin RX 560 1002-67ffrcf
+                                          09 Baffin RX 560 1002-67ffrcf
+                                          0a Baffin RX 560 1002-67ffrcf
+                                          0b Baffin RX 560 1002-67ffrcf
+                                          0c Baffin RX 560 1002-67ffrcf
+                                          0d Baffin RX 560 1002-67ffrcf
+                                          0e Baffin RX 560 1002-67ffrcf
+                                          0f Baffin RX 560 1002-67ffrcf
+bioses:                                   113-34830M4-U02 113-34830M4-U02 113-34830M4-U02 113-34830M4-U02 113-34830M4-U02 113-34830M4-U02 113-34830M4-U02 113-34830M4-U02 113-34830M4-U02 113-34830M4-U02 113-34830M4-U02 113-34830M4-U02 113-34830M4-U02
+default_core:                             1300 1300 1300 1300 1300 1300 1300 1300 1300 1300 1300 1300 1300
+default_mem:                              1750 1750 1750 1750 1750 1750 1750 1750 1750 1750 1750 1750 1750
+vramsize:                                 4 4 4 4 4 4 4 4 4 4 4 4 4
+core:                                     1128 1128 1128 1128 1128 1128 1128 1128 1128 1128 1128 1128 1128
+mem:                                      1750 1750 1750 1750 1750 1750 300 1750 1750 1750 1750 1750 1750
+memstates:                                2 2 2 2 2 2 0 2 2 2 2 2 2
+meminfo:                                  GPU0:01.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU1:02.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU2:03.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU3:04.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU4:05.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU5:06.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU6:09.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU7:0a.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU8:0b.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU9:0c.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU10:0d.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU11:0e.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+                                          GPU12:0f.00.0:Unknown GPU 1002-67ffrcf:113-34830M4-U02:Micron MT51J256M3
+voltage:                                  0.987 0.950 0.956 0.912 0.906 0.962 0.931 0.968 0.931 0.893 0.981 0.975 0.962
+overheatedgpu:                            
+throttled:                                
+powertune:                                4 4 4 4 4 4 4 4 4 4 4 4 4
