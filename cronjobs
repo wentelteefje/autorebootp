@@ -1,0 +1,3 @@
+# autorebootp cron jobs
+@reboot sudo -u ethos -i /home/ethos/autorebootp/cron_prepare.sh
+*/10 * * * * sudo -u ethos -i /home/ethos/autorebootp/autorebootp.sh
