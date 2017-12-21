@@ -2,3 +2,4 @@
 @reboot sudo -u ethos -i clear-thermals
 @reboot sudo -u ethos -i /home/ethos/autorebootp/cron_prepare.sh
 @reboot /bin/sleep 1800 ; sudo -u ethos -i /home/ethos/autorebootp/autorebootp.sh
+
