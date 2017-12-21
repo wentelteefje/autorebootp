@@ -10,6 +10,7 @@ do
 
   # Reboot if failed cards >= 3 else do nothing
   if [ $fc -ge 3 ]; then
+    echo "...initiating reboot." >> autorebootp.log
     r
   fi
 
